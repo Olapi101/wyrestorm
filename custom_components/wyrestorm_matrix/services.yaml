@@ -1,0 +1,15 @@
+set_route:
+  name: Set route
+  description: Route an input to a specific output.
+  target:
+    entity:
+      integration: wyrestorm_matrix
+      domain: select
+  fields:
+    input:
+      required: true
+      selector:
+        number:
+          min: 1
+          max: 8
+          mode: box
