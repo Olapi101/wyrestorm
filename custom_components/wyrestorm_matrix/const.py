@@ -1,3 +1,0 @@
-DOMAIN = "wyrestorm_matrix"
-DEFAULT_PORT = 23
-DEFAULT_SCAN_INTERVAL = 30
