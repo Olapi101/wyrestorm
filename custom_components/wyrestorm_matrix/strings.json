@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "WyreStorm Matrix",
+        "description": "Connect to your matrix switch over TCP/Telnet.",
+        "data": {
+          "name": "Name",
+          "host": "Host",
+          "port": "Port"
+        }
+      }
+    }
+  }
+}
